@@ -1,0 +1,3 @@
+Algoritmo SueldoNeto
+	
+FinAlgoritmo
